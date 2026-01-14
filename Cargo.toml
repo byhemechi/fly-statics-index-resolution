@@ -8,5 +8,5 @@ edition = "2021"
 [dependencies]
 envy = "0.4.2"
 serde = { version = "1.0.164", features = ["derive"] }
-tokio = { version = "1.28.2", features = ["full"] }
+tokio = { version = "1.29.1", features = ["full"] }
 warp = "0.3.5"
